@@ -1,5 +1,9 @@
 # To-Do List Application
 
+![image](https://github.com/ShubhamPokale/todo-list-front-end/assets/80520475/1e9de127-2781-40d5-9011-0ef094bca850)
+
+
+
 This repository contains a responsive To-Do List Application built with HTML, CSS, and Bootstrap 5. It features task management with functionalities to add, edit, complete, delete, and filter tasks, along with a collapsible section for completed tasks.
 
 ## Features
